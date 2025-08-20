@@ -13,7 +13,7 @@
 ## 📌 Projetos
 
 * **[Jornada Python](link-do-repo)** → Scripts em Python para automação e manipulação de dados.
-* (Adicionar futuramente novos projetos acadêmicos ou pessoais).
+  
 
 ## 📫 Contato
 
