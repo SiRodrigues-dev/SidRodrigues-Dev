@@ -4,7 +4,7 @@
 💻 Aspirante a Desenvolvedor | Foco em Python e Processos de TI
 🚀 Apaixonado por tecnologia, automação e inovação
 
-## 🛠️ Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 
 * Python (manipulação de dados, automação)
 * Pacote Office Avançado (Excel, Word, PowerPoint, Access, Outlook, Teams)
